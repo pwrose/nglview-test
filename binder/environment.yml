@@ -1,0 +1,6 @@
+name: nglview-test 
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.7
+  - nglview=2.5.2
